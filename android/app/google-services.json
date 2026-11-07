@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086347041751",
+    "project_id": "pathama-d3463",
+    "storage_bucket": "pathama-d3463.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086347041751:android:e4b253e657936bf3b64992",
+        "android_client_info": {
+          "package_name": "com.example.perpus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNDybkADQ11Y3qAVIYw3-g19XAHbBGzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
